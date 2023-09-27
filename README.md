@@ -26,5 +26,5 @@
 ![](https://github.com/brandyge/Portfolio/blob/main/UMD_solar.jpg
 )
 
-![](https://github.com/brandyge/Portfolio/blob/main/UMD_solar.jpg
+![](https://github.com/brandyge/Portfolio/blob/main/1695850523918-5716f177-834a-4333-add3-3f360387277b_1.jpg
 )
