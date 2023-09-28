@@ -1,5 +1,5 @@
 # Portfolio
-#Images
+#Images, tutorials, school projects, etc
 
 
 ![](https://github.com/brandyge/Portfolio/blob/main/BlueWhale.gif
